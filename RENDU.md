@@ -2,9 +2,9 @@
 
 ## Informations
 
-- Nom : à renseigner
-- Prénom : à renseigner
-- Campus : à renseigner
+- Nom : FURON
+- Prénom : Marius
+- Campus : Reims
 
 ## Défauts trouvés en partie A
 
@@ -18,10 +18,6 @@
 | F5 | Le retour anticipé lorsque les frais de tenue étaient offerts supprimait aussi le supplément de carte premium. | `shouldAlwaysChargePremiumSupplementWhenMaintenanceIsFree` |
 
 Les autres règles de `Compte` et `CalculFrais` ne présentaient pas de défaut constaté dans le code fourni.
-
-## Couverture de code
-
-Ajouter ici la capture IntelliJ obtenue avec **Run with Coverage** après exécution des tests.
 
 ## Partie B
 
